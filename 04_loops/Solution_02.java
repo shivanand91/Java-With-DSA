@@ -1,4 +1,4 @@
-
+// this is the program of summation of n number
 
 public class Solution_02 {
    public static void main(String[] args) {
