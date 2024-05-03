@@ -28,7 +28,7 @@ public class Solution_03 {
         int n = sc.nextInt();
         System.out.print("Enter number r: ");
         int r = sc.nextInt();
-        
-        System.out.println(binCoeff(n, r));
+
+        System.out.println("Binomial Coeff: " + binCoeff(n, r));
     }
 }
