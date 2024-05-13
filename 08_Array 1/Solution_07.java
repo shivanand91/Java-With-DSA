@@ -1,3 +1,5 @@
+// this is the function which is find the sub arrays  of an array 
+
 public class Solution_07 {
 
     public static void subArrays(int arr[]){
